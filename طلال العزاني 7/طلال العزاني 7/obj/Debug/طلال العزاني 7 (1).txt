@@ -1,0 +1,19 @@
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\bin\Debug\الواجب رقم 7 بسام سمير.exe.config
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\bin\Debug\الواجب رقم 7 بسام سمير.exe
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\bin\Debug\الواجب رقم 7 بسام سمير.pdb
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب رقم 7 بسام سمير.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب رقم 7 بسام سمير.csproj.SuggestedBindingRedirects.cache
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.Form1.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.Properties.Resources.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب رقم 7 بسام سمير.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب رقم 7 بسام سمير.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب رقم 7 بسام سمير.exe
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب رقم 7 بسام سمير.pdb
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.Form2.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.Form3.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.Form4.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.Form5.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.formadd.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.formdiv.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.formmul.resources
+C:\Users\User1\Desktop\برمجة مرئية\الواجب رقم 7 بسام سمير\الواجب رقم 7 بسام سمير\obj\Debug\الواجب_رقم_7_بسام_سمير.formsub.resources
